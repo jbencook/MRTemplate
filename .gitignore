@@ -1,0 +1,10 @@
+#E-macs temp files
+*~
+
+#jars
+target/
+
+#IntelliJ
+.idea/
+*.iml
+
